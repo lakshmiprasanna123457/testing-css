@@ -1,6 +1,6 @@
 # testing-css
 <!DOCTYPE html ><html>
-<head> <title>iam creating css file </title>
+<head>
  </head>
 <body>
    <h1  style="color:blue;text-align:center;" >welcome to inline class </h1>
